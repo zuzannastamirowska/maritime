@@ -1,6 +1,6 @@
 # Maritime Network Evolution
 
-This repository contains supplementary materials for my maritime network study.
+This repository contains supplementary materials for the maritime network study based on Lloyd's data (1977--2008).
 
 ## Data access
 
